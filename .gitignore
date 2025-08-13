@@ -1,0 +1,24 @@
+ # Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+
+# Data
+data/*.csv
+data/*.parquet
+
+# DVC
+.dvc/
+*.dvc
+.dvcignore
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
